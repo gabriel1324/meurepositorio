@@ -1,7 +1,7 @@
 {
 	"products" : [
 		{
-			"name" : "Awesome T-shirt",
+			"name" : "Camiseta 3",
 			"price" : "35.99",
 			"options" : [
 				{ "Size" : "Small,Medium,Large" }
@@ -10,7 +10,7 @@
 			"description" : "This is a very awesome grey T-shirt"
 		},
 		{
-			"name" : "Cool T-shirt",
+			"name" : "Camiseta 2",
 			"price" : "15.99",
 			"options" : [
 				{ "Size" : "Small,Medium,Large" },
@@ -21,7 +21,7 @@
 			"description" : "This is a really cool blue T-shirt"
 		},
 		{
-			"name" : "Fun T-shirt",
+			"name" : "Camiseta 4",
 			"price" : "15.99",
 			"options" : [
 				{ "Size" : "Small,Medium,Large" }
